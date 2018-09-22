@@ -8,9 +8,7 @@ class Artist
 
   @@artists = []
 
-  def initialize(name=nil)
-    @name = name
-#    binding.pry
+  def initialize
     @@artists << self
     @songs = []
   end
