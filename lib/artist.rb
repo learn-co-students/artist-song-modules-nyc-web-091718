@@ -1,3 +1,6 @@
+# Artists can have MANY songs
+# One to many
+
 require 'pry'
 
 class Artist
