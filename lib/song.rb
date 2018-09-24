@@ -1,3 +1,5 @@
+# An individual instance of a song BELONGS to ONE Artist.
+# Many to one.
 require 'pry'
 
 class Song
